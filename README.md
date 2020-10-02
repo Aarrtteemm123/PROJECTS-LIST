@@ -11,3 +11,10 @@
     <br />
   </p>
 </p>
+<h2>&#x1F537; Python</h2>
+
+- Web application:
+  - [Online browser strategy (Django,Vue.js,MongoDb,REST framework,Vuetify.js,ApexChart.js and other)](https://github.com/Aarrtteemm123/strategy-game-server)
+- Bots:
+  - [Telegram weather bot (pyowm,telebot,emoji)](https://github.com/Aarrtteemm123/TelegramBots)
+  - [Telegram picture bot (PIL,telebot,emoji)](https://github.com/Aarrtteemm123/TelegramBots/tree/pictureBot)
