@@ -15,6 +15,10 @@
 
 - Web application:
   - [Online browser strategy (Django,Vue.js,MongoDb,REST framework,Vuetify.js,ApexChart.js and other)](https://github.com/Aarrtteemm123/strategy-game-server)
-- Bots:
-  - [Telegram weather bot (pyowm,telebot,emoji)](https://github.com/Aarrtteemm123/TelegramBots)
-  - [Telegram picture bot (PIL,telebot,emoji)](https://github.com/Aarrtteemm123/TelegramBots/tree/pictureBot)
+- Chatbots:
+  - [Telegram weather bot (Pyowm,Telebot,Emoji)](https://github.com/Aarrtteemm123/TelegramBots)
+  - [Telegram picture bot (PIL,Telebot,Emoji)](https://github.com/Aarrtteemm123/TelegramBots/tree/pictureBot)
+- Parsers:
+  - [Bot parse jobs(Python,Java) from Dou.ua (Selenium,BeautifulSoup,Smtplib,Time)](https://github.com/Aarrtteemm123/Parsers)
+  - [Bot parse and save comments from YouTube video (CSV,Selenium,BeautifulSoup)](https://github.com/Aarrtteemm123/Parsers/tree/YT-com-parser)
+  - [Bot parse and save followers from instagram profiles (CSV,Selenium,BeautifulSoup,Colorama)](https://github.com/Aarrtteemm123/Parsers/tree/InstaSub)
