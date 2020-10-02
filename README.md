@@ -22,3 +22,11 @@
   - [Bot parse jobs(Python,Java) from Dou.ua (Selenium,BeautifulSoup,Smtplib,Time)](https://github.com/Aarrtteemm123/Parsers)
   - [Bot parse and save comments from YouTube video (CSV,Selenium,BeautifulSoup)](https://github.com/Aarrtteemm123/Parsers/tree/YT-com-parser)
   - [Bot parse and save followers from instagram profiles (CSV,Selenium,BeautifulSoup,Colorama)](https://github.com/Aarrtteemm123/Parsers/tree/InstaSub)
+- Desktop application:
+  - [Simulation physics balls on the inclined plane (Pygame,Tkinter,Threading)](https://github.com/Aarrtteemm123/Balls)
+  - [Text analyzer (Multiprocessing,Os)](https://github.com/Aarrtteemm123/text-analyzer)
+  - [FaceID (OpenCV,Tkinter,Shutil)](https://github.com/Aarrtteemm123/FaceID)
+  - [Fast translator (SpeechRecognition,Pyttsx3,Googletrans)](https://github.com/Aarrtteemm123/fast-translator)
+  - [Cheat for game Lumberjack in Telegram (PIL,Pyautogui,Ctypes)](https://github.com/Aarrtteemm123/LumberjackBot)
+  - [Simulation of the Monty Hall paradox (Tkinter)](https://github.com/Aarrtteemm123/Monty-Hall)
+  - [Voice assistant (Datetime,Requests,Sys,Webbrowser,Pyttsx3,Wikipedia,SpeechRecognition,Pyowm,Pygooglenews)](https://github.com/illumlg/voice-assistant)
