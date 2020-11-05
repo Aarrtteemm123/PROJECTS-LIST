@@ -15,6 +15,7 @@
 
 - Web application:
   - [Online browser strategy backend (Django, MongoDB, REST framework)](https://github.com/Aarrtteemm123/strategy-game-server)
+  - [Audio editor API (Flask, SQlite3, Pysox, Unittest)](https://github.com/illumlg/audio-editor-api)
 - Data science:
   - [Work with weather dataset (Pandas, Matplotlib, Sklearn, Numpy, Scipy, Seaborn and other)](https://github.com/Aarrtteemm123/dataset-weather)
 - Chatbots:
