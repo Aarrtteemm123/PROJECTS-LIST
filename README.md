@@ -18,6 +18,8 @@
   - [Audio editor API (Flask, SQlite3, Pysox, Unittest)](https://github.com/illumlg/audio-editor-api)
 - Data science:
   - [Work with weather dataset (Pandas, Matplotlib, Sklearn, Numpy, Scipy, Seaborn and other)](https://github.com/Aarrtteemm123/dataset-weather)
+- Cross-platform apps:
+  - [Shopping list (Kivy, KivyMD)](https://github.com/Aarrtteemm123/shopping-list)
 - Chatbots:
   - [Telegram weather bot (Pyowm, Telebot, Emoji)](https://github.com/Aarrtteemm123/TelegramBots)
   - [Telegram picture bot (PIL, Telebot, Emoji)](https://github.com/Aarrtteemm123/TelegramBots/tree/pictureBot)
