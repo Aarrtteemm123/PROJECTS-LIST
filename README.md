@@ -24,7 +24,8 @@
   - [Telegram weather bot (Pyowm, Telebot, Emoji)](https://github.com/Aarrtteemm123/TelegramBots)
   - [Telegram picture bot (PIL, Telebot, Emoji)](https://github.com/Aarrtteemm123/TelegramBots/tree/pictureBot)
 - Parsers:
-  - [Bot parse jobs(Python,Java) from Dou.ua (Selenium, BeautifulSoup, Smtplib, Time)](https://github.com/Aarrtteemm123/Parsers)
+  - [API for build a graph Vk friends (FastAPI, Requests, Sendgrid, Networkx, Matplotlib)](https://github.com/Aarrtteemm123/vk-graph-friends)
+  - [Bot parse jobs(Python,Java) from Dou.ua (Selenium, BeautifulSoup, Sendgrid, Time)](https://github.com/Aarrtteemm123/Parsers)
   - [Bot parse and save comments from YouTube video (CSV, Selenium, BeautifulSoup)](https://github.com/Aarrtteemm123/Parsers/tree/YT-com-parser)
   - [Bot parse and save followers from instagram profiles (CSV ,Selenium, BeautifulSoup, Colorama)](https://github.com/Aarrtteemm123/Parsers/tree/InstaSub)
 - Desktop application:
