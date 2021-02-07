@@ -36,6 +36,7 @@
   - [Cheat for game Lumberjack in Telegram (PIL, Pyautogui, Ctypes)](https://github.com/Aarrtteemm123/LumberjackBot)
   - [Simulation of the Monty Hall paradox (Tkinter)](https://github.com/Aarrtteemm123/Monty-Hall)
   - [Voice assistant (Datetime, Requests, Sys, Webbrowser, Pyttsx3, Wikipedia, SpeechRecognition, Pyowm, Pygooglenews)](https://github.com/illumlg/voice-assistant)
+  - [Online ping pong (Socket, Flask, Threading, Json, Sqlite3, Pyglet, PySimpleGUI, Requests)](https://github.com/Aarrtteemm123/online-ping-pong)
 
 <h2>&#x1F537; Java</h2>
 
@@ -57,7 +58,7 @@
  <h2>&#x1F537; C#</h2>
 
 - Desktop application:
-  - [23 design patterns(OOP)](https://github.com/Aarrtteemm123/design-patterns)
+  - [23 design patterns (OOP)](https://github.com/Aarrtteemm123/design-patterns)
   
 <h2>&#x1F537; C++</h2>
 
