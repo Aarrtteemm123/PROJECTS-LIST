@@ -37,6 +37,7 @@
   - [Simulation of the Monty Hall paradox (Tkinter)](https://github.com/Aarrtteemm123/Monty-Hall)
   - [Voice assistant (Datetime, Requests, Sys, Webbrowser, Pyttsx3, Wikipedia, SpeechRecognition, Pyowm, Pygooglenews)](https://github.com/illumlg/voice-assistant)
   - [Online ping pong (Socket, Flask, Threading, Json, Sqlite3, Pyglet, PySimpleGUI, Requests)](https://github.com/Aarrtteemm123/online-ping-pong)
+  - [Remote control (Flask, Threading, Json, PySimpleGUI, Requests, OpenCV, Keyboard, Numpy, PyAutoGUI, PyWin32)](https://github.com/Aarrtteemm123/remote-control)
 
 <h2>&#x1F537; Java</h2>
 
