@@ -16,7 +16,7 @@
 - Web application:
   - [Online browser strategy backend (Django, MongoDB, REST framework)](https://github.com/Aarrtteemm123/strategy-game-server)
   - [Book recommendation website (Django, Flask, JQuery, MongoDB, Mongomock, Mongoengine, Pylint, Bootstrap 4)](https://github.com/mehalyna/Ch-117-Python-Project-ITA)
-  - [Audio editor API (Flask, SQlite3, Pysox, Unittest)](https://github.com/illumlg/audio-editor-api)
+  - [Audio editor API (Flask, SQlite3, Pysox, Unittest)](https://github.com/Aarrtteemm123/audio-editor-api.git)
   - [Application of genetic algorithm for solve mathematical equations (Flask, WTForms, Matplotlib, Sympy, Scipy, PyGad)](https://github.com/Aarrtteemm123/GA-in-math-equations)
 - Data science:
   - [Work with weather dataset (Pandas, Matplotlib, Sklearn, Numpy, Scipy, Seaborn and other)](https://github.com/Aarrtteemm123/dataset-weather)
@@ -37,7 +37,7 @@
   - [Fast translator (SpeechRecognition, Pyttsx3, Googletrans)](https://github.com/Aarrtteemm123/fast-translator)
   - [Cheat for game Lumberjack in Telegram (PIL, Pyautogui, Ctypes)](https://github.com/Aarrtteemm123/LumberjackBot)
   - [Simulation of the Monty Hall paradox (Tkinter)](https://github.com/Aarrtteemm123/Monty-Hall)
-  - [Voice assistant (Datetime, Requests, Sys, Webbrowser, Pyttsx3, Wikipedia, SpeechRecognition, Pyowm, Pygooglenews)](https://github.com/illumlg/voice-assistant)
+  - [Voice assistant (Datetime, Requests, Sys, Webbrowser, Pyttsx3, Wikipedia, SpeechRecognition, Pyowm, Pygooglenews)](https://github.com/Aarrtteemm123/voice-assistant.git)
   - [Online ping pong (Socket, Flask, Threading, Json, Sqlite3, Pyglet, PySimpleGUI, Requests)](https://github.com/Aarrtteemm123/online-ping-pong)
   - [Remote control (Flask, Threading, Json, PySimpleGUI, Requests, OpenCV, Keyboard, Numpy, PyAutoGUI, PyWin32)](https://github.com/Aarrtteemm123/remote-control)
 
