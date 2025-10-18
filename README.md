@@ -57,6 +57,8 @@
   - [Study system backend (NodeJS, Express)](https://github.com/Aarrtteemm123/study-system-server)
   - [Study system frontend (Angular 9, Material Design)](https://github.com/Aarrtteemm123/study-system-client)
   - [Online browser strategy frontend (Vue.js, Vuetify.js, ApexChart.js, Axios.js and others)](https://github.com/Aarrtteemm123/strategy-game-client)
+- Desktop application:
+  - [Clicker game "Success" (Electron JS)](https://store.steampowered.com/app/4012140/Success/)
   
  <h2>&#x1F537; C#</h2>
 
