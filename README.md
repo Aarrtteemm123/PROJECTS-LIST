@@ -2,7 +2,7 @@
 
   <img src="logo.png" alt="Logo" width="100" height="100" />
 
-  # 🚀 Featured Projects
+  # 🚀 Projects
 
   *A curated collection of my software engineering projects, experiments, and applications.*
 
