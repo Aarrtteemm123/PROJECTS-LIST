@@ -2,11 +2,10 @@
 
   <img src="logo.png" alt="Logo" width="100" height="100" />
 
-  # 🚀 Projects
+  # 🚀 Featured Projects
 
   *A curated collection of my software engineering projects, experiments, and applications.*
 
-  [![GitHub Stars](https://img.shields.io/github/stars/Aarrtteemm123?style=for-the-badge&color=brightgreen)](https://github.com/Aarrtteemm123)
   [![GitHub Repos](https://img.shields.io/badge/Repos-30%2B-blue?style=for-the-badge)](https://github.com/Aarrtteemm123?tab=repositories)
 
 </div>
