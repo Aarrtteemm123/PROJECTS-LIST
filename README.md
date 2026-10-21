@@ -35,6 +35,7 @@
 * **[Text Analyzer](https://github.com/Aarrtteemm123/text-analyzer)** — High-performance text analysis using multi-core processing (`Multiprocessing`)
 * **[Lumberjack Game Bot](https://github.com/Aarrtteemm123/LumberjackBot)** — Automation cheat bot for Telegram's Lumberjack game (`PIL`, `PyAutoGUI`, `ctypes`)
 * **[Fast Translator](https://github.com/Aarrtteemm123/fast-translator)** — Voice-to-speech translation desktop utility (`SpeechRecognition`, `Pyttsx3`, `Googletrans`)
+* **[Hash Cipher](https://github.com/Aarrtteemm123/hash-chipher)** — A custom encryption algorithm based on a hash function (`blake3`, `Crypto`, `hashlib`)
 
 ### 🕷️ Automation & Web Scraping
 * **[VK Friends Graph API](https://github.com/Aarrtteemm123/vk-graph-friends)** — API to parse and visualize VK user friend networks (`FastAPI`, `NetworkX`, `Matplotlib`, `Requests`)
